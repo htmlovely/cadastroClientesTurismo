@@ -1,0 +1,10 @@
+Eu tentei rodar os dois de maneiras diferentes, o tela_de_cadastro.ALG
+tá dando um erro de ficar pedindo "fimse" ou "fimalgoritmo" e 
+mesmo eu corrigindo ele fica nesse loop dizendo que eu não escrevi 
+e que esta errado.
+
+No "Cadastro cliente e emissão de ticket" o visualg não reconhecia 
+meu procedimento e eu não faço ideia do porque e ninguem soube me ajudar.
+
+é minha primeira vez com pseudocódigo e eu tenho a consciência limpa que
+fiz o melhor que pude.
